@@ -1,1 +1,2 @@
-apasi
+Nama: apasi
+Hobi: main saham
